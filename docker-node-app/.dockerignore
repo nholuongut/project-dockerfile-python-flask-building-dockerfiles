@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+
+
+README.md
+
+
+Dockerfile*
+
+.git*
+
+
